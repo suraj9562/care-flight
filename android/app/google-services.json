@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970895839552",
+    "project_id": "careflight-2d466",
+    "storage_bucket": "careflight-2d466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970895839552:android:003a0f7d6b040b0efc2aa5",
+        "android_client_info": {
+          "package_name": "com.example.care_flight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970895839552-p6e97ngth5r83ojhaul54p4h8dlib6kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.care_flight",
+            "certificate_hash": "6747c7beb07b99a2d65d03436ab67f9d4c02977d"
+          }
+        },
+        {
+          "client_id": "970895839552-1vpo6ltci1993bqh32phtb011vhpu5lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHt_OQN4woAjP-umQU9FmHy77FblylKqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970895839552-1vpo6ltci1993bqh32phtb011vhpu5lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
