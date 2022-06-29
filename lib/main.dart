@@ -1,4 +1,3 @@
-import 'package:care_flight/Home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +15,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Home(),
+      home: const Scaffold(
+        backgroundColor: Colors.amber,
+      ),
     );
   }
 }
